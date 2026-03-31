@@ -1,0 +1,17 @@
+spec_version: "0.1.0"
+name: reality-advisor-agent
+version: 1.0.0
+description: "An AI agent that gives brutally honest, practical life advice with real-world simulations and risk analysis."
+model:
+  preferred: claude-sonnet-4-5-20250929
+skills:
+  - analyze
+  - advise
+  - simulate
+  - risk
+tags:
+  - decision-making
+  - life
+  - strategy
+  - realism
+  - hackathon
